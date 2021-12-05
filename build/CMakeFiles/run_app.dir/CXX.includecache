@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/DataStructures/Rope/app/main.cpp
+iostream
+-
+../code/Rope.h
+/home/jovyan/DataStructures/Rope/code/Rope.h
+
+/home/jovyan/DataStructures/Rope/code/Rope.cpp
+Rope.h
+/home/jovyan/DataStructures/Rope/code/Rope.h
+iostream
+-
+vector
+-
+string
+-
+memory
+-
+
+/home/jovyan/DataStructures/Rope/code/Rope.h
+string
+-
+memory
+-
+vector
+-
+

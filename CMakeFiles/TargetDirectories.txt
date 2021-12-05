@@ -1,0 +1,5 @@
+/home/jovyan/DataStructures/Rope/CMakeFiles/rebuild_cache.dir
+/home/jovyan/DataStructures/Rope/CMakeFiles/test.dir
+/home/jovyan/DataStructures/Rope/CMakeFiles/edit_cache.dir
+/home/jovyan/DataStructures/Rope/CMakeFiles/run_tests.dir
+/home/jovyan/DataStructures/Rope/CMakeFiles/run_app.dir
